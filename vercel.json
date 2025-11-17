@@ -1,0 +1,10 @@
+{
+  "build": {
+    "env": {
+      "NODE_OPTIONS": "--openssl-legacy-provider"
+    }
+  },
+  "version": 2,
+  "functions": {},
+  "routes": []
+}
