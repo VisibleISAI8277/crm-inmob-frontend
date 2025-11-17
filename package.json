@@ -2,7 +2,9 @@
   "name": "erp-crm",
   "version": "0.1.0",
   "engines": {
+
     "npm": "8.5.5"
+    "node": "18.x" 
   },
   "dependencies": {
     "@ant-design/icons": "4.7.0",
